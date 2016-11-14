@@ -1,7 +1,7 @@
 import webbrowser
 
 class Movie():
-	"""This is the documentation for this class"""
+	"""This is the constructor for the class Movie which receives 4 arguments"""
 	
 	
 	def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
