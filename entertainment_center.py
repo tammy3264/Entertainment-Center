@@ -7,7 +7,7 @@ toy_story = 		media.Movie("Toy Story",
             			"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",  
                        	"https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
-jaws =				media.Movie("Jaws",
+jaws =			media.Movie("Jaws",
 						"A killer shark terrorizes a beach community.",
             			"https://upload.wikimedia.org/wikipedia/en/e/eb/JAWS_Movie_poster.jpg",
             			"https://www.youtube.com/watch?v=ucMLFO6TsFM")
@@ -27,7 +27,7 @@ apollo_13 = 		media.Movie("Appolo 13",
 						"https://upload.wikimedia.org/wikipedia/en/9/9e/Apollo_thirteen_movie.jpg",
 						"https://www.youtube.com/watch?v=KtEIMC58sZo")
 
-Anna_and_the_king = media.Movie("Anna and the King",
+Anna_and_the_king = 	media.Movie("Anna and the King",
 						"An English widow becomes a school teacher in Siam",
 						"https://upload.wikimedia.org/wikipedia/en/5/5d/Anna_and_the_king.jpg",
 						"https://www.youtube.com/watch?v=s_RO3S-KniE")
@@ -36,4 +36,4 @@ Anna_and_the_king = media.Movie("Anna and the King",
 movies = [toy_story, jaws, love_and_death, inside_out, apollo_13, Anna_and_the_king]
 
 fresh_tomatoes.open_movies_page(movies)  # pass the movie instances into 
-										 # html and open the webpage
+					 # html and open the webpage
