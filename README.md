@@ -4,17 +4,17 @@ This program displays some of my favorite movies in a static web page.
 Click on any movie title to view the trailer.
 
 ##Installation
+Make sure you have python installed on your computer. You can download it [here](https://www.python.org/downloads/).
 
 
-Download or clone 
+Download the zip file to your local computer. This will install a directory called Entertainment-Center.
+Change to this directory.
 
 ##Directions
 
-If I were writing these out as *code*, it might look something like this:
+On the command line, type the following
 
 ```
-if bowl is empty:
-    add cereal
-if bowl only has cereal in it:
-    add milk
+python entertainment_center.py
 ```
+This will open a new window displaying the static movie website.
