@@ -12,12 +12,12 @@ Change to this directory.
 
 ##Directions
 
-On the command line, type the following
+Open the command line and type the following
 
 ```
 python entertainment_center.py
 ```
 
-or double-click on the file.
+or double-click on the file in Windows.
 
 This will open a new window displaying the static movie website.
